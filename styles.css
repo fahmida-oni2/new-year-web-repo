@@ -1,0 +1,30 @@
+.background{
+    background-image:url('./images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position-x: 1320px;
+    background-position-y: 600px;
+    background-position: center;
+    text-align: center;
+    margin-top: 30px;
+    padding: 177px 344px; 
+    color: white;
+    
+
+}
+
+.merriweather {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+h5{
+    font-weight: 600;
+    font-size: 32px;
+}
+.h{
+    font-weight: 900;
+    font-size:72px ;
+    margin-top: 16px;
+}
